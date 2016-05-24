@@ -1,5 +1,5 @@
 !function() {
-  var DEFAULT_BDAY = '07/07/1986',
+  var DEFAULT_BDAY = '10/07/1992',
       DEFAULT_LIFE_EXPECTANCY = 90
 
   var calculator = new Life.Models.Calculator({})
